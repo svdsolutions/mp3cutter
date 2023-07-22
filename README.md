@@ -3,7 +3,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/4006436/29242230-cc55a19a-7fbb-11e7-8cda-b92499a79b45.png)
 
-online https://wennkat.github.io/mp3cutter/dist
+online https://svdsolutions.github.io/mp3cutter/dist
 
 ### Platforms
 
